@@ -2,17 +2,17 @@
 
 ## Overview
 
-The `` library provides a simple function for creating clickable links in Jupyter Notebooks.
+The `create_jn_clickable_link` library provides a simple function for creating clickable links in Jupyter Notebooks.
 
 ## Installation
 
 You can install the library using `pip`:
 
-pip install link-creator
+pip install create_jn_clickable_link
 
 ## Usage
 
-from link_creator import create_link
+from create_jn_clickable_link import create_link
 
 Create a clickable link
 create_link("Google", "https://www.google.com")
